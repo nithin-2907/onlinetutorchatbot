@@ -1,0 +1,5 @@
+spacy
+streamlit
+wikipedia-api
+langchain-groq
+textblob
